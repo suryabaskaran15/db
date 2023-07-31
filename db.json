@@ -1,4 +1,4 @@
-
+{
   {
     "id": 1,
     "name": "John Doe",
@@ -299,3 +299,4 @@
     "contact_number": "333-333-3333",
     "email": "sofia.peterson@example.com"
   }
+}
