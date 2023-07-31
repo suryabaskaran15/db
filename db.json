@@ -289,16 +289,6 @@
     "address": "999 Maple Road, City CC",
     "contact_number": "222-222-2222",
     "email": "liam.brooks@example.com"
-  },
-  {
-    "id": 30,
-    "name": "Sofia Peterson",
-    "age": 15,
-    "gender": "Female",
-    "grade": "9",
-    "address": "111 Elm Avenue, City DD",
-    "contact_number": "333-333-3333",
-    "email": "sofia.peterson@example.com"
   }
 
   ]
