@@ -1,25 +1,27 @@
 {
   "students": [
+   {
+     "id": "1",
+     "firstName": "John",
+     "lastName": "Doe",
+     "age": 18,
+     "gender": "Male",
+     "grade": "12",
+     "address": "123 Main Street, City A",
+     "contact_number": "1234567890",
+     "email": "john.doe@example.com"
+    },
     {
-  "id": "1",
-  "name": "John tom",
-  "age": "18",
-  "gender": "Male",
-  "grade": "12",
-  "address": "123 Main Street, City A",
-  "contact_number": "1234567890",
-  "email": "john.tom@example.com"
- },
- {
-  "id": "2",
-  "name": "Jane Smith",
-  "age": 17,
-  "gender": "Female",
-  "grade": "11",
-  "address": "456 Elm Avenue, City B",
-  "contact_number": "987-654-3210",
-  "email": "jane.smith@example.com"
- },
+     "id": "2",
+     "firstName": "John",
+     "lastName": "Doe",
+     "age": 17,
+     "gender": "Female",
+     "grade": "11",
+     "address": "456 Elm Avenue, City B",
+     "contact_number": "9876543210",
+     "email": "jane.smith@example.com"
+    },
  {
   "id": "3",
   "name": "Michael Johnson",
