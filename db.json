@@ -1,6 +1,6 @@
 {
   "students": [
-{
+     {
      "id": "1",
      "firstName": "John",
      "lastName": "Doe",
@@ -274,62 +274,6 @@
      "address": "555 Elm Road, City Y",
      "contact_number": "777-777-7777",
      "email": "elijah.ramirez@example.com"
-    },
-    {
-     "id": "26",
-     "firstName": "Aria",
-     "lastName": "Scott",
-     "age": 16,
-     "gender": "Female",
-     "grade": "10",
-     "address": "666 Oak Avenue, City Z",
-     "contact_number": "888-888-8888",
-     "email": "aria.scott@example.com"
-    },
-    {
-     "id": "27",
-     "firstName": "Owen",
-     "lastName": "Morris",
-     "age": 15,
-     "gender": "Male",
-     "grade": "9",
-     "address": "777 Cedar Street, City AA",
-     "contact_number": "999-999-9999",
-     "email": "owen.morris@example.com"
-    },
-    {
-     "id": "28",
-     "firstName": "Abigail",
-     "lastName": "Hughes",
-     "age": 17,
-     "gender": "Female",
-     "grade": "11",
-     "address": "888 Birch Lane, City BB",
-     "contact_number": "111-111-1111",
-     "email": "abigail.hughes@example.com"
-    },
-    {
-     "id": "29",
-     "firstName": "Liam",
-     "lastName": "Brooks",
-     "age": 16,
-     "gender": "Male",
-     "grade": "10",
-     "address": "999 Maple Road, City CC",
-     "contact_number": "222-222-2222",
-     "email": "liam.brooks@example.com"
-    },
-    {
-     "id": "30",
-     "firstName": "Sofia",
-     "lastName": "Peterson",
-     "age": "20",
-     "gender": "Female",
-     "grade": "9",
-     "address": "111 Elm Avenue, City DD",
-     "contact_number": "333-333-3333",
-     "email": "sofia.peterson@example.com"
-    },
-
+    }
   ]
 }
