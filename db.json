@@ -22,245 +22,269 @@
      "contact_number": "9876543210",
      "email": "jane.smith@example.com"
     },
- {
-  "id": "3",
-  "name": "Michael Johnson",
-  "age": 16,
-  "gender": "Male",
-  "grade": "10",
-  "address": "789 Oak Road, City C",
-  "contact_number": "111-222-3333",
-  "email": "michael.johnson@example.com"
- },
- {
-  "id": "4",
-  "name": "Emily Williams",
-  "age": 17,
-  "gender": "Female",
-  "grade": "11",
-  "address": "222 Pine Street, City D",
-  "contact_number": "444-555-6666",
-  "email": "emily.williams@example.com"
- },
- {
-  "id": "5",
-  "name": "William Smithson",
-  "age": 16,
-  "gender": "Male",
-  "grade": "10",
-  "address": "333 Oak Lane, City E",
-  "contact_number": "777-888-9999",
-  "email": "william.smithson@example.com"
- },
- {
-  "id": "6",
-  "name": "Sophia Lee",
-  "age": 15,
-  "gender": "Female",
-  "grade": "9",
-  "address": "444 Cedar Road, City F",
-  "contact_number": "222-333-4444",
-  "email": "sophia.lee@example.com"
- },
- {
-  "id": "7",
-  "name": "Alexander Brown",
-  "age": 17,
-  "gender": "Male",
-  "grade": "11",
-  "address": "555 Birch Street, City G",
-  "contact_number": "888-999-0000",
-  "email": "alexander.brown@example.com"
- },
- {
-  "id": "8",
-  "name": "Olivia Miller",
-  "age": 16,
-  "gender": "Female",
-  "grade": "10",
-  "address": "666 Maple Avenue, City H",
-  "contact_number": "555-666-7777",
-  "email": "olivia.miller@example.com"
- },
- {
-  "id": "9",
-  "name": "James Anderson",
-  "age": 18,
-  "gender": "Male",
-  "grade": "12",
-  "address": "777 Elm Road, City I",
-  "contact_number": "777-777-7777",
-  "email": "james.anderson@example.com"
- },
- {
-  "id": "10",
-  "name": "Ava Wilson",
-  "age": 17,
-  "gender": "Female",
-  "grade": "11",
-  "address": "888 Pine Lane, City J",
-  "contact_number": "111-111-1111",
-  "email": "ava.wilson@example.com"
- },
- {
-  "id": "11",
-  "name": "Daniel Martin",
-  "age": 16,
-  "gender": "Male",
-  "grade": "10",
-  "address": "999 Oak Street, City K",
-  "contact_number": "222-222-2222",
-  "email": "daniel.martin@example.com"
- },
- {
-  "id": "12",
-  "name": "Isabella Taylor",
-  "age": 15,
-  "gender": "Female",
-  "grade": "9",
-  "address": "111 Cedar Avenue, City L",
-  "contact_number": "333-333-3333",
-  "email": "isabella.taylor@example.com"
- },
- {
-  "id": "13",
-  "name": "Ethan White",
-  "age": 17,
-  "gender": "Male",
-  "grade": "11",
-  "address": "222 Birch Road, City M",
-  "contact_number": "444-444-4444",
-  "email": "ethan.white@example.com"
- },
- {
-  "id": "14",
-  "name": "Mia Garcia",
-  "age": 16,
-  "gender": "Female",
-  "grade": "10",
-  "address": "333 Maple Lane, City N",
-  "contact_number": "555-555-5555",
-  "email": "mia.garcia@example.com"
- },
- {
-  "id": "15",
-  "name": "Benjamin Martinez",
-  "age": 18,
-  "gender": "Male",
-  "grade": "12",
-  "address": "444 Elm Street, City O",
-  "contact_number": "666-666-6666",
-  "email": "benjamin.martinez@example.com"
- },
- {
-  "id": "16",
-  "name": "Scarlett Lopez",
-  "age": 17,
-  "gender": "Female",
-  "grade": "11",
-  "address": "555 Oak Avenue, City P",
-  "contact_number": "777-777-7777",
-  "email": "scarlett.lopez@example.com"
- },
- {
-  "id": "17",
-  "name": "Logan Thompson",
-  "age": 16,
-  "gender": "Male",
-  "grade": "10",
-  "address": "666 Cedar Road, City Q",
-  "contact_number": "888-888-8888",
-  "email": "logan.thompson@example.com"
- },
- {
-  "id": "18",
-  "name": "Chloe Rodriguez",
-  "age": 15,
-  "gender": "Female",
-  "grade": "9",
-  "address": "777 Birch Lane, City R",
-  "contact_number": "999-999-9999",
-  "email": "chloe.rodriguez@example.com"
- },
- {
-  "id": "19",
-  "name": "Carter Adams",
-  "age": 17,
-  "gender": "Male",
-  "grade": "11",
-  "address": "888 Maple Street, City S",
-  "contact_number": "111-111-1111",
-  "email": "carter.adams@example.com"
- },
- {
-  "id": "20",
-  "name": "Avery Rivera",
-  "age": 16,
-  "gender": "Female",
-  "grade": "10",
-  "address": "999 Elm Avenue, City T",
-  "contact_number": "222-222-2222",
-  "email": "avery.rivera@example.com"
- },
- {
-  "id": "21",
-  "name": "Ryan Collins",
-  "age": 18,
-  "gender": "Male",
-  "grade": "12",
-  "address": "111 Oak Road, City U",
-  "contact_number": "333-333-3333",
-  "email": "ryan.collins@example.com"
- },
- {
-  "id": "22",
-  "name": "Ella Mitchell",
-  "age": 17,
-  "gender": "Female",
-  "grade": "11",
-  "address": "222 Cedar Lane, City V",
-  "contact_number": "444-444-4444",
-  "email": "ella.mitchell@example.com"
- },
- {
-  "id": "23",
-  "name": "Noah Perez",
-  "age": 16,
-  "gender": "Male",
-  "grade": "10",
-  "address": "333 Birch Street, City W",
-  "contact_number": "555-555-5555",
-  "email": "noah.perez@example.com"
- },
- {
-  "id": "24",
-  "name": "Grace Cook",
-  "age": 15,
-  "gender": "Female",
-  "grade": "9",
-  "address": "444 Maple Avenue, City X",
-  "contact_number": "666-666-6666",
-  "email": "grace.cook@example.com"
- },
- {
-  "id": "25",
-  "name": "Elijah Ramirez",
-  "age": 17,
-  "gender": "Male",
-  "grade": "11",
-  "address": "555 Elm Road, City Y",
-  "contact_number": "777-777-7777",
-  "email": "elijah.ramirez@example.com"
- },
- {
-  "name": "john",
-  "id": "27",
-  "age": "30",
-  "gender": "Male",
-  "email": "john@gmail.com",
-  "contact_number": "7845123690",
-  "grade": "A",
-  "address": "Kerala"
- }
+{
+     "id": "3",
+     "firstName": "Michael",
+     "lastName": "Johnson",
+     "age": 16,
+     "gender": "Male",
+     "grade": "10",
+     "address": "789 Oak Road, City C",
+     "contact_number": "1112222333",
+     "email": "michael.johnson@example.com"
+    },
+    {
+     "id": "4",
+     "firstName": "Emily",
+     "lastName": "Williams",
+     "age": 17,
+     "gender": "Female",
+     "grade": "11",
+     "address": "222 Pine Street, City D",
+     "contact_number": "4445556666",
+     "email": "emily.williams@example.com"
+    },
+    {
+     "id": "5",
+     "firstName": "William",
+     "lastName": "Smithson",
+     "age": 16,
+     "gender": "Male",
+     "grade": "10",
+     "address": "333 Oak Lane, City E",
+     "contact_number": "777-888-9999",
+     "email": "william.smithson@example.com"
+    },
+    {
+     "id": "6",
+     "firstName": "Sophia",
+     "lastName": "Lee",
+     "age": 15,
+     "gender": "Female",
+     "grade": "9",
+     "address": "444 Cedar Road, City F",
+     "contact_number": "222-333-4444",
+     "email": "sophia.lee@example.com"
+    },
+    {
+     "id": "7",
+     "firstName": "Alexander",
+     "lastName": "Brown",
+     "age": 17,
+     "gender": "Male",
+     "grade": "11",
+     "address": "555 Birch Street, City G",
+     "contact_number": "888-999-0000",
+     "email": "alexander.brown@example.com"
+    },
+    {
+     "id": "8",
+     "firstName": "Olivia",
+     "lastName": "Miller",
+     "age": 16,
+     "gender": "Female",
+     "grade": "10",
+     "address": "666 Maple Avenue, City H",
+     "contact_number": "555-666-7777",
+     "email": "olivia.miller@example.com"
+    },
+    {
+     "id": "9",
+     "firstName": "James",
+     "lastName": "Anderson",
+     "age": 18,
+     "gender": "Male",
+     "grade": "12",
+     "address": "777 Elm Road, City I",
+     "contact_number": "777-777-7777",
+     "email": "james.anderson@example.com"
+    },
+    {
+     "id": "10",
+     "firstName": "Ava",
+     "lastName": "Wilson",
+     "age": 17,
+     "gender": "Female",
+     "grade": "11",
+     "address": "888 Pine Lane, City J",
+     "contact_number": "111-111-1111",
+     "email": "ava.wilson@example.com"
+    },
+    {
+     "id": "11",
+     "firstName": "Daniel",
+     "lastName": "Martin",
+     "age": 16,
+     "gender": "Male",
+     "grade": "10",
+     "address": "999 Oak Street, City K",
+     "contact_number": "222-222-2222",
+     "email": "daniel.martin@example.com"
+    },
+    {
+     "id": "12",
+     "firstName": "Isabella",
+     "lastName": "Taylor",
+     "age": 15,
+     "gender": "Female",
+     "grade": "9",
+     "address": "111 Cedar Avenue, City L",
+     "contact_number": "333-333-3333",
+     "email": "isabella.taylor@example.com"
+    },
+    {
+     "id": "13",
+     "firstName": "Ethan",
+     "lastName": "White",
+     "age": 17,
+     "gender": "Male",
+     "grade": "11",
+     "address": "222 Birch Road, City M",
+     "contact_number": "444-444-4444",
+     "email": "ethan.white@example.com"
+    },
+    {
+     "id": "14",
+     "firstName": "Mia",
+     "lastName": "Garcia",
+     "age": 16,
+     "gender": "Female",
+     "grade": "10",
+     "address": "333 Maple Lane, City N",
+     "contact_number": "555-555-5555",
+     "email": "mia.garcia@example.com"
+    },
+    {
+     "id": "15",
+     "firstName": "Benjamin",
+     "lastName": "Martinez",
+     "age": 18,
+     "gender": "Male",
+     "grade": "12",
+     "address": "444 Elm Street, City O",
+     "contact_number": "666-666-6666",
+     "email": "benjamin.martinez@example.com"
+    },
+    {
+     "id": "16",
+     "firstName": "Scarlett",
+     "lastName": "Lopez",
+     "age": 17,
+     "gender": "Female",
+     "grade": "11",
+     "address": "555 Oak Avenue, City P",
+     "contact_number": "777-777-7777",
+     "email": "scarlett.lopez@example.com"
+    },
+    {
+     "id": "17",
+     "firstName": "Logan",
+     "lastName": "Thompson",
+     "age": 16,
+     "gender": "Male",
+     "grade": "10",
+     "address": "666 Cedar Road, City Q",
+     "contact_number": "888-888-8888",
+     "email": "logan.thompson@example.com"
+    },
+    {
+     "id": "18",
+     "firstName": "Chloe",
+     "lastName": "Rodriguez",
+     "age": 15,
+     "gender": "Female",
+     "grade": "9",
+     "address": "777 Birch Lane, City R",
+     "contact_number": "999-999-9999",
+     "email": "chloe.rodriguez@example.com"
+    },
+    {
+     "id": "19",
+     "firstName": "Carter",
+     "lastName": "Adams",
+     "age": 17,
+     "gender": "Male",
+     "grade": "11",
+     "address": "888 Maple Street, City S",
+     "contact_number": "111-111-1111",
+     "email": "carter.adams@example.com"
+    },
+    {
+     "id": "20",
+     "firstName": "Avery",
+     "lastName": "Rivera",
+     "age": 16,
+     "gender": "Female",
+     "grade": "10",
+     "address": "999 Elm Avenue, City T",
+     "contact_number": "2222222222",
+     "email": "avery.rivera@example.com"
+    },
+    {
+     "id": "21",
+     "firstName": "Ryan",
+     "lastName": "Collins",
+     "age": 18,
+     "gender": "Male",
+     "grade": "12",
+     "address": "111 Oak Road, City U",
+     "contact_number": "333-333-3333",
+     "email": "ryan.collins@example.com"
+    },
+    {
+     "id": "22",
+     "firstName": "Ella",
+     "lastName": "Mitchell",
+     "age": 17,
+     "gender": "Female",
+     "grade": "11",
+     "address": "222 Cedar Lane, City V",
+     "contact_number": "444-444-4444",
+     "email": "ella.mitchell@example.com"
+    },
+    {
+     "id": "23",
+     "firstName": "Noah",
+     "lastName": "Perez",
+     "age": 16,
+     "gender": "Male",
+     "grade": "10",
+     "address": "333 Birch Street, City W",
+     "contact_number": "555-555-5555",
+     "email": "noah.perez@example.com"
+    },
+    {
+     "id": "24",
+     "firstName": "Grace",
+     "lastName": "Cook",
+     "age": 15,
+     "gender": "Female",
+     "grade": "9",
+     "address": "444 Maple Avenue, City X",
+     "contact_number": "666-666-6666",
+     "email": "grace.cook@example.com"
+    },
+    {
+     "id": "25",
+     "firstName": "Elijah",
+     "lastName": "Ramirez",
+     "age": 17,
+     "gender": "Male",
+     "grade": "11",
+     "address": "555 Elm Road, City Y",
+     "contact_number": "777-777-7777",
+     "email": "elijah.ramirez@example.com"
+    },
+    {
+     "id": "26",
+     "firstName": "Aria",
+     "lastName": "Scott",
+     "age": 16,
+     "gender": "Female",
+     "grade": "10",
+     "address": "666 Oak Avenue, City Z",
+     "contact_number": "888-888-8888",
+     "email": "aria.scott@example.com"
+    }
   ]
 }
